@@ -25,6 +25,17 @@ Your notes stay on your device and are encrypted locally.
 - Auto-lock timeout
 - Multi-language interface
 
+## Screenshots
+
+Some Veil features screenshots.
+
+<img src="screenshots/screen1.jpeg" alt="Password Login Screen" width="300px" />
+<img src="screenshots/screen2.jpeg" alt="Biometric Login Screen" width="300px" /> 
+<img src="screenshots/screen3.jpeg" alt="Notes List Screen" width="300px" />
+<img src="screenshots/screen4.jpeg" alt="Note Swipe Delete" width="300px" />
+<img src="screenshots/screen5.jpeg" alt="Settings Screen" width="300px" />
+<img src="screenshots/screen6.jpeg" alt="Note Markdown Formatting Screen" width="300px" />
+
 ## Project Status
 
 Veil is currently in **early development**.
